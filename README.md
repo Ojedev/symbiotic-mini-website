@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="practice.css">
 
 <body>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -278,4 +278,4 @@ Projects can pick which vault to use, what assets to accept, and how security is
 </body>
 </html>
 </body>
-</html># symbiotic-mini-website
+</html>
